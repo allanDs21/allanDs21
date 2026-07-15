@@ -6,15 +6,20 @@ Atualmente, estou no **2º Período de Sistemas de Informação**, construindo m
 
 ---
 
-## 💡 Minha Experiência Atual
+## 💡 Minha Experiência
 
-Trabalho como **Auxiliar de T.I. em um ambiente não-T.I.** (Petshop), onde desenvolvi habilidades práticas essenciais em infraestrutura e suporte:
+08/2024 | 02/2025 - Petshop KãoMix - **Auxiliar de T.I. em um ambiente não-T.I.**, onde desenvolvi habilidades práticas essenciais em infraestrutura e suporte:
 
 * **Manutenção de Hardware e Software:** Responsável pela manutenção preventiva e corretiva de todos os computadores.
 * **Redes:** Auxílio na instalação e manutenção da infraestrutura de redes (cabeamento, roteadores e conectividade).
 * **Sistemas:** Suporte na implementação e realização de ajustes e otimizações em sistemas internos.
 
-Essa experiência me deu uma visão de ponta a ponta sobre a operação de T.I., do hardware ao sistema.
+06/2026 - TechRj Contabilidade - **Assistente de Tecnologia**
+
+* **Manutenção de Hardware e Software:** Responsável pela manutenção preventiva e corretiva de todos os computadores.
+* **Redes:** Auxílio na instalação e manutenção da infraestrutura de redes (cabeamento, roteadores e conectividade).
+* **Sistemas:** Desenvolvimento de sistemas, melhorias, automações e suporte de sistema aos colaboradores.
+
 
 ---
 
